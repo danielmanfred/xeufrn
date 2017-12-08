@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/service/SelecaoOfertaNaoDemandada.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/service/SelecaoOfertaDemandada.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/util/ConnectionFactory.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/service/CategoriaService.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/test/CategoriaServiceTest.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/dao/OfertaDemandadaDAO.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/service/SelecaoOferta.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/service/OfertaNaoDemandadaService.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/dao/OfertaNaoDemandadaDAO.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/dao/UsuarioDAO.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/dao/ItemDAO.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/ws/UsuarioWS.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/dao/NegocioDAO.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/service/NegocioService.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/dao/CategoriaDAO.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/dao/DemandaDAO.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/service/OfertaDemandadaService.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/service/ItemService.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/main/main.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/service/DemandaService.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/dao/AdministradorDAO.java</file>
+            <file>file:/C:/TreinamentoWeb2/xeufrn/src/java/service/UsuarioService.java</file>
+        </group>
+    </open-files>
+</project-private>
